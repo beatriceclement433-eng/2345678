@@ -1,0 +1,34 @@
+{
+
+box- sizing:border-box
+}
+
+body{
+    margin:0;
+    font-family:scans-serif;
+    background- color:f7f2ff;
+    color:#333;
+}   
+    header{
+    background-color:#4b327c;
+    text-align: center;
+    padding:15px;
+} 
+    
+    section {
+            background color: white;
+            margin bottom:20px;
+            padding:25px;
+            border-radius:12px
+ }          
+            
+    section h2 {
+            color:6c4ab6;
+ }
+ 
+    footer {
+        background-color:4b327c;
+        color:white;
+        text-align:cente;
+        padding:15px;
+}
